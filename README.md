@@ -1,2 +1,2 @@
 # Studies-
-учеба, кучей
+учеба, stepik auto tests course
